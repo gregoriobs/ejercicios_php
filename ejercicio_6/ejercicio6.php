@@ -6,6 +6,7 @@
         $suma += $i;
     }
     echo "La suma de todos los números es : ". $suma;
+    echo "Gregorio Bizcocho Sardina"
 ?>
 <br>
 <a href="ejercicio6.html">Atras</a>
